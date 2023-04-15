@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-
+<html>
 <html lang="en">
 
 <head>
@@ -33,6 +33,8 @@
       Progress in the Specialization capstone (20%)<progress value="20" max="100"></progress><br/>
       Progress in life goals (50%)<progress value="50" max="100"></progress></p>
       </section>
+      
+      </html>
 
 <section>
    <h2>More about John</h2>
